@@ -1,0 +1,68 @@
+body{
+    padding-top:40px;
+}
+.navbar-expand-lg{
+    height: 80px;
+}
+.resimSlider{
+    height: 600px;
+}
+.bg-white{
+    height: 600px;
+    color: white;
+}
+.card-img-top{
+    width: 348px;
+    height: 200px;
+}
+.gorseller{
+    padding-top: 250px;
+}
+.gorsel>img:hover{
+    opacity: 0.5;
+}
+.ayrac{
+    border: none;
+    border-top:3px solid #343a40 ;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+.footer{
+    height:280px;
+    background-color: #1a202c;
+}
+.footer-img{
+    padding-top: 10px;
+    padding-left: 1300px;
+}
+.footer-text{
+    color: white;
+    left: 10px;
+}
+.logolar li{
+    left: -60px;
+    list-style: none;
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+.logolar li a{
+    color: white;
+}
+.logolar li a:hover{
+    opacity: 0.5;
+}
+.copyright{
+    color: white;
+    text-align: center;
+    height: 50px;
+    background-color: darkred;
+}
