@@ -51,7 +51,7 @@
 <div class="navbar navbar-inverse navbar-twitch" role="navigation">
     <div class="container">
         <div class="navbar-header">
-                <li> <a class="navbar-brand" href="#"><i class="glyphicon glyphicon-user"></i></a></li>
+            <li> <a class="navbar-brand" href="#"><i class="glyphicon glyphicon-user"></i></a></li>
             </a>
         </div>
 

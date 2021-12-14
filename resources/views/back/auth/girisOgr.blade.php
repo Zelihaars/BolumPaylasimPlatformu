@@ -26,7 +26,7 @@
 
                         <div class="form-group">
                             <label for="userno" class="text-white">Öğrenci Numarası:</label><br>
-                            <input type="text" name="usero" id="userno" class="form-control">
+                            <input type="text" name="userno" id="userno" class="form-control">
                         </div>
                         <div class="form-group">
                             <label for="password" class="text-white">Şifre:</label><br>

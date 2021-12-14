@@ -18,4 +18,5 @@ Route::get('/','App\Http\Controllers\Front\Anasayfa@index')->name('anasayfa');
 Route::get('ogrenciGiris','App\Http\Controllers\Back\Auth@loginOgr')->name('ogrenci.login');
 Route::get('akademisyenGiris','App\Http\Controllers\Back\Auth@loginAkm')->name('akademisyen.login');
 Route::get('sifremiUnuttum','App\Http\Controllers\Back\Sifre@password')->name('sifremi.unuttum');
-
+Route::get('tumnotlar','App\Http\Controllers\Back\Not@index');
+Route::get('notekle','App\Http\Controllers\Back\Not@create');
